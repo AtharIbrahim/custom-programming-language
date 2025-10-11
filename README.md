@@ -18,6 +18,11 @@ Traditional language creation requires deep compiler knowledge, complex tools, a
 
 ---
 
+## 🚀 Compiler Running
+<li><strong>Video</strong>: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7382407767409733633/utm_source=share&utm_medium=member_desktop&rcm=ACoAAEkMHJUB5P_ChuDfFwQev2FHDQsgmVLhprc"target="_blank">Compiler Working Video</a></li>
+
+---
+
 ## 🚀 App Demo
 <div align="center">
   <img src="Screenshots/Screenshot%202025-10-11%20184031.png" alt="Custom Language Builder Interface"/>
